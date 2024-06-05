@@ -60,7 +60,7 @@ Por último, se buscaron patrones en la distribución espacial de los hechos. Lo
 
 ## KPI
 
-En función de lo analizado en el punto anterior, se plantearon dos objetivos en relación a la disminución de la cantidad de víctimas fatales de los siniestros viales, desde los cuales se proponen dos indicadores de rendimiento clave o KPI.
+En función de lo analizado en el punto anterior, se plantearon tres objetivos en relación a la disminución de la cantidad de víctimas fatales de los siniestros viales, desde los cuales se proponen tres indicadores de rendimiento clave o KPI.
 
 * *Reducir en un 10% la tasa de homicidios en siniestros viales de los últimos seis meses, en CABA, en comparación con la tasa de homicidios en siniestros viales del semestre anterior*
 
@@ -83,6 +83,10 @@ En función de lo analizado en el punto anterior, se plantearon dos objetivos en
     - $\text{Víctimas moto año actual}$: Número de accidentes mortales con víctimas en moto en el año actual 
 
     Para este caso, se toma como año actual al año 2021 y como año anterior al año 2020. En primer lugar, se calculó la *Cantidad de accidentes mortales de motociclistas* para el año 2020, el cual resultó de -44.00, de esta manera el objetivo a cumplir es de **-40.92** (es decir, la reducción del 7% de la cantidad de accidentes para 2020). El calcular la *Cantidad de accidentes mortales de motociclistas* para el año 2021 resultó de **64.29** lo que significa que aumentó un 64% la cantidad de muertes de conductores de motociclistas respecto del 2020.
+
+* *Reducir en un 10% la tasa de homicidios en siniestros viales en avenidas en el actual año, en CABA, en comparación con la tasa de homicidios en siniestros viales del año anterior*
+
+En este caso, para el año 2020, la *Tasa de homicidios en siniestros viales en avenidas* fue de 1.87 lo que significa que, durante el 2020, hubo aproximadamente 1.87 homicidios en accidentes de tránsito en avenidas por cada 100,000 habitantes. Ahora, el objetivo planteado es reducir esta tasa para el año actual 2021 en un 10%, esto es **1.70**. Cuando se calcula el KPI para este período se obtiene que la *Tasa de homicidios en siniestros viales en avenidas* fue de **2.27**, lo que significa que para el año 2021 no se cumple con el objetivo propuesto.
 
 * *A continuación podemos ver los gráficos de los KPIs:*
 
