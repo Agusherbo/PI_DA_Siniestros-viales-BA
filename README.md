@@ -86,7 +86,7 @@ En función de lo analizado en el punto anterior, se plantearon tres objetivos e
 
 * *Reducir en un 10% la tasa de homicidios en siniestros viales en avenidas en el actual año, en CABA, en comparación con la tasa de homicidios en siniestros viales del año anterior*
 
-En este caso, para el año 2020, la *Tasa de homicidios en siniestros viales en avenidas* fue de 1.87 lo que significa que, durante el 2020, hubo aproximadamente 1.87 homicidios en accidentes de tránsito en avenidas por cada 100,000 habitantes. Ahora, el objetivo planteado es reducir esta tasa para el año actual 2021 en un 10%, esto es **1.70**. Cuando se calcula el KPI para este período se obtiene que la *Tasa de homicidios en siniestros viales en avenidas* fue de **2.27**, lo que significa que para el año 2021 no se cumple con el objetivo propuesto.
+    En este caso, para el año 2020, la *Tasa de homicidios en siniestros viales en avenidas* fue de 1.87 lo que significa que, durante el 2020, hubo aproximadamente 1.87 homicidios en accidentes de tránsito en avenidas por cada 100,000 habitantes. Ahora, el objetivo planteado es reducir esta tasa para el año actual 2021 en un 10%, esto es **1.70**. Cuando se calcula el KPI para este período se obtiene que la *Tasa de homicidios en siniestros viales en avenidas* fue de **2.27**, lo que significa que para el año 2021 no se cumple con el objetivo propuesto.
 
 * *A continuación podemos ver los gráficos de los KPIs:*
 
